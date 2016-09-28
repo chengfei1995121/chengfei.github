@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-28T16:26:33.382Z</updated>
+  <updated>2016-09-28T17:47:12.802Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今天遇到的坑</title>
+    <link href="http://yoursite.com/2016/09/29/new-post/"/>
+    <id>http://yoursite.com/2016/09/29/new-post/</id>
+    <published>2016-09-28T17:21:56.000Z</published>
+    <updated>2016-09-28T17:47:12.802Z</updated>
+    
+    <content type="html"><![CDATA[<p>先是在域名解析那里。昨天在万网上买了个域名，然后用dnspod来解析，看介绍说，可能需要几十个小时，那就等呗。今早醒来，发现还没成功，实在等不及了，在谷歌上搜索，也没发现多少有用的信息，最后一想，可能是填github服务器填错了，当时填的是大部分教程都提到的192那个，然后我ping了一下我的github page，出来一个ip，150的。果断重新填上，没过几分钟就解析成功<br>另一个就是dnspod的服务器地址很容易把1看错成L，这样也会导致解析不成功</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;先是在域名解析那里。昨天在万网上买了个域名，然后用dnspod来解析，看介绍说，可能需要几十个小时，那就等呗。今早醒来，发现还没成功，实在等不及了，在谷歌上搜索，也没发现多少有用的信息，最后一想，可能是填github服务器填错了，当时填的是大部分教程都提到的192那个，然后
+    
+    </summary>
+    
+    
+      <category term="文章" scheme="http://yoursite.com/tags/%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>开篇</title>
